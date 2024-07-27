@@ -6,7 +6,7 @@ https://jyywiki.cn/OS/2024/lect1.md
 
 
 
-
+# 操作系统概述
 
 
 
@@ -20,6 +20,10 @@ https://jyywiki.cn/OS/2024/lect1.md
 
 
 
+### Quiz: 《数字逻辑电路》课学了个什么？
+
+- 一个极简的公理系统 (导线、时钟、逻辑门、触发器)
+- 能支撑非常复杂的数字系统设计 (例如，高性能计算机)
 
 
 
@@ -41,8 +45,7 @@ https://jyywiki.cn/OS/2024/lect1.md
 
 
 
-
-
+---
 
 课程逐字稿:
 
@@ -237,7 +240,7 @@ https://jyywiki.cn/OS/2024/lect1.md
 
 
 
-### 
+# 应用视角的操作系统
 
 
 
@@ -263,18 +266,24 @@ https://jyywiki.cn/OS/2024/lect1.md
 
 
 
-
-
-
-
 ★ 阅读材料
 
 - [知乎 - 如何驯服野生的 NOILinux 2.0](https://zhuanlan.zhihu.com/p/619237809)
 
 - [HARLEY HAHN'S GUIDE TO UNIX AND LINUX](https://www.harley.com/unix-book/book/chapters/home.html)
   - 《HARLEY HAHN'S GUIDE TO UNIX AND LINUX》是由Harley Hahn撰写的一本经典的计算机书籍，专门面向Unix和Linux操作系统的用户和初学者。
+- 常用到的命令行工具：
+  - 编译器、git、编辑器、ssh server
+  - vim, tmux, grep, gcc, binutils, ...
 
-github copilot CLI
+
+
+
+
+项目
+
+- github copilot CLI
+- [聊天室项目](https://jyywiki.cn/OS/Chatroom.md)
 
 
 
