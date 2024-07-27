@@ -1,12 +1,50 @@
 # 绪论01
 
-
+https://jyywiki.cn/OS/2024/lect1.md
 
 ---
 
 
 
 
+
+
+
+
+
+实验文件:
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+课程逐字稿:
 
 那今天是操作系统课的第一次课呃，我会给大家讲一讲概述嗯，因为我相信啊，大家已经是计算机系的同学，所以已经有很多的使用操作系统的经验了，对吧？你们用过WINDOWS？可能用过linux呃，也知道操作系统可能是一门很重要的课程，但是呢，你们可能还不知道呃，我们为什么要上操作系统，对吧？为什么要？在操作系统课里面学这么多的东西，所以今天不是一堂呃，
 很严肃的讲，很多技术内容的课程呃，但是我就跟大家讲一讲八卦，讲一讲背景，讲一讲。呃，操作系统的历史。所以今天是分成呃y what和how三个主题，这也是如果以后大家要做presentation的话呃，你们想要呃讲一个很困难的。呃，东西给别人的时候，比如说你们可能在问题求解课上会想要做presentation，然后讲一个复杂的算法的时候，你会呃，
@@ -207,17 +245,34 @@
 
 
 
-★ 教科书以及相关的参考资料
+### ★ 教科书以及相关的参考资料
 
 
 
 
 
-- OSTEP：https://pages.cs.wisc.edu/~remzi/OSTEP/
+- 教科书：OSTEP：https://pages.cs.wisc.edu/~remzi/OSTEP/
+  - 中文版：
+    - https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese
+    - https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/
 
 
 
 
+
+
+
+
+
+
+
+
+★ 阅读材料
+
+- [知乎 - 如何驯服野生的 NOILinux 2.0](https://zhuanlan.zhihu.com/p/619237809)
+
+- [HARLEY HAHN'S GUIDE TO UNIX AND LINUX](https://www.harley.com/unix-book/book/chapters/home.html)
+  - 《HARLEY HAHN'S GUIDE TO UNIX AND LINUX》是由Harley Hahn撰写的一本经典的计算机书籍，专门面向Unix和Linux操作系统的用户和初学者。
 
 github copilot CLI
 
