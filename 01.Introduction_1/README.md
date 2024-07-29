@@ -12,6 +12,19 @@ https://jyywiki.cn/OS/2024/lect1.md
 
 
 
+
+
+- 会一些gcc的基本的用法
+- 计算机系统基础必备知识
+  - https://awesome-programming-books.github.io/others/程序员的自我修养：链接、装载与库.pdf
+  - 下载视频
+
+
+
+
+
+
+
 实验文件:
 
 - 
